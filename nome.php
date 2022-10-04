@@ -1,4 +1,5 @@
 <?php
     $nome = $_POST['txtnome'];
-    echo "nome:<b>". $nome . "</b>";
+    echo "nome1:<b>". $nome . "</b>";
+    echo "nome2:<b>". $nome . "</b>";
 ?>
